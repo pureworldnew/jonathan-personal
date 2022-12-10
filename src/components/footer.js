@@ -6,7 +6,7 @@ export default class Profile extends Component {
       <div className="footer">
         <h4>
           <a
-            href="https://github.com/pureworldnew/personal-react-web"
+            href="https://github.com/pureworldnew/jonathan-personal/"
             target="_blank"
             rel="noopener noreferrer"
           >

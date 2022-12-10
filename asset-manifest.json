@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/personal-react-web/static/css/main.5fb1b0e3.chunk.css",
-    "main.js": "/personal-react-web/static/js/main.b3fb2ce2.chunk.js",
-    "main.js.map": "/personal-react-web/static/js/main.b3fb2ce2.chunk.js.map",
-    "runtime-main.js": "/personal-react-web/static/js/runtime-main.6d2c3e14.js",
-    "runtime-main.js.map": "/personal-react-web/static/js/runtime-main.6d2c3e14.js.map",
-    "static/js/2.57638fa5.chunk.js": "/personal-react-web/static/js/2.57638fa5.chunk.js",
-    "static/js/2.57638fa5.chunk.js.map": "/personal-react-web/static/js/2.57638fa5.chunk.js.map",
-    "index.html": "/personal-react-web/index.html",
-    "precache-manifest.10fd3be64fcd20b71e8fdcfefb19d44d.js": "/personal-react-web/precache-manifest.10fd3be64fcd20b71e8fdcfefb19d44d.js",
-    "service-worker.js": "/personal-react-web/service-worker.js",
-    "static/css/main.5fb1b0e3.chunk.css.map": "/personal-react-web/static/css/main.5fb1b0e3.chunk.css.map",
-    "static/js/2.57638fa5.chunk.js.LICENSE.txt": "/personal-react-web/static/js/2.57638fa5.chunk.js.LICENSE.txt",
-    "static/media/linkedln_icon.png": "/personal-react-web/static/media/linkedln_icon.b421b93a.png",
-    "static/media/new.png": "/personal-react-web/static/media/new.04ba7db2.png",
-    "static/media/resume.pdf": "/personal-react-web/static/media/resume.21070282.pdf",
-    "static/media/resume.png": "/personal-react-web/static/media/resume.e8154063.png"
+    "main.css": "/jonathan-personal/static/css/main.5fb1b0e3.chunk.css",
+    "main.js": "/jonathan-personal/static/js/main.9e327055.chunk.js",
+    "main.js.map": "/jonathan-personal/static/js/main.9e327055.chunk.js.map",
+    "runtime-main.js": "/jonathan-personal/static/js/runtime-main.33d2188c.js",
+    "runtime-main.js.map": "/jonathan-personal/static/js/runtime-main.33d2188c.js.map",
+    "static/js/2.57638fa5.chunk.js": "/jonathan-personal/static/js/2.57638fa5.chunk.js",
+    "static/js/2.57638fa5.chunk.js.map": "/jonathan-personal/static/js/2.57638fa5.chunk.js.map",
+    "index.html": "/jonathan-personal/index.html",
+    "precache-manifest.bdf6fdd46518abf8a74fc4b6bf7000b2.js": "/jonathan-personal/precache-manifest.bdf6fdd46518abf8a74fc4b6bf7000b2.js",
+    "service-worker.js": "/jonathan-personal/service-worker.js",
+    "static/css/main.5fb1b0e3.chunk.css.map": "/jonathan-personal/static/css/main.5fb1b0e3.chunk.css.map",
+    "static/js/2.57638fa5.chunk.js.LICENSE.txt": "/jonathan-personal/static/js/2.57638fa5.chunk.js.LICENSE.txt",
+    "static/media/linkedln_icon.png": "/jonathan-personal/static/media/linkedln_icon.b421b93a.png",
+    "static/media/new.png": "/jonathan-personal/static/media/new.04ba7db2.png",
+    "static/media/resume.pdf": "/jonathan-personal/static/media/resume.21070282.pdf",
+    "static/media/resume.png": "/jonathan-personal/static/media/resume.e8154063.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d2c3e14.js",
+    "static/js/runtime-main.33d2188c.js",
     "static/js/2.57638fa5.chunk.js",
     "static/css/main.5fb1b0e3.chunk.css",
-    "static/js/main.b3fb2ce2.chunk.js"
+    "static/js/main.9e327055.chunk.js"
   ]
 }

@@ -42,7 +42,7 @@ export default class Section extends Component {
 
         <div id="section">
           <div id="date">
-            <Date date="2018-2022" />
+            <Date date="2018-2023" />
           </div>
           <div>
             <Title

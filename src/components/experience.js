@@ -24,7 +24,7 @@ export default class Experience extends Component {
         <Job
           co="With - meetwithanyone.com"
           title="Full time - MERN stack Developer"
-          date="May 2018 - Nov 2022"
+          date="May 2018 - Mar 2023"
         />
         <Job
           co="Sky Republic Inc"

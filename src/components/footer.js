@@ -11,7 +11,7 @@ export default class Profile extends Component {
             rel="noopener noreferrer"
           >
             Designed and Built by Jonathan Samayoa
-            <div className="padding-top">2022, GitHub Pages</div>
+            <div className="padding-top">2023, GitHub Pages</div>
           </a>
         </h4>
       </div>

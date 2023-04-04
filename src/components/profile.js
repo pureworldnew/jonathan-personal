@@ -34,7 +34,7 @@ function SocialLinks(props) {
         Resume
       </a>
       <a
-        href="https://calendly.com/jonathandsamoya/"
+        href="https://calendly.com/jonathandreamdev"
         target="_blank"
         rel="noopener noreferrer"
       >
